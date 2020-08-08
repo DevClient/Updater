@@ -1,0 +1,23 @@
+DevClient Patch Notes  |  08/08/2020
+
+1. Removed the posibility of changing texture pack
+	・ I'm currently working on a fix for the texture pack GUI
+
+2. Added an version status.
+	・ You can now check if your version is outdated or no using the debug GUI (F3)
+
+3. Added featured servers.
+	・ Applications for featured servers are open on our Discord server.
+		3.1. Added verified servers.
+		・ Applications for verified servers are open on our Discord server.
+			3.2. Added dangerous servers.
+			・ Any servers judge dangerous will have a fair warning before joining the server.
+			   For more informations, please read the documentation: docs.devclient.xyz
+
+
+● Socials:
+	
+	・ Telegram » https://t.me/devclientmc
+	・ Discord » https://discord.gg/devclient
+	・ Website » https://devclient.xyz
+	・ Documentation » httos://docs.devclient.xyz
